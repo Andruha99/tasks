@@ -1,0 +1,90 @@
+header {
+    display: flex;
+    padding-top: 26px;
+    background-color: white;
+}
+.telegramm {
+    padding-right: 18px;
+    padding-left: 45px;
+}
+.slogan {
+    padding-top: 10px;
+}
+header .site_header {
+    color: #003d48;
+    font-weight: 700;
+    font-size: 23px;
+}
+header .name_header {
+    color: #f88777;
+    font-size: 23px;
+}
+header p {
+    color: #afafaf;
+    font-size: 13px;
+}
+nav {
+    position: absolute;
+    top: 42px;
+    right: 42px;
+    bottom: 545px;
+    left: 1023px;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: left; 
+    font-weight: 700;
+    width: 489px;
+}
+nav a:link {
+    color: #8a8a8a;
+    text-decoration: none;
+}
+nav a:visited {
+    color: #8a8a8a;
+}
+nav a:hover {
+    color: rgb(109, 197, 221);
+}
+.navig {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.phone {
+    display:flex;
+    margin-bottom: 0px;
+    background-color: #f4f4f4;
+}
+.screen img{
+    padding-top: 52px;
+    padding-left: 100px;
+    margin-right: 105px;
+}
+.Lorem_ipsum_dolor_sit_amet_Donec_nec_justo_eget h1 {
+    font-size: 42px;
+    font-weight: 900;
+    color: rgb(0, 61, 72);
+}
+.Lorem_ipsum_dolor_sit_amet_Donec_nec_justo_eget h2 {
+    font-size: 31px;
+    font-weight: 300;
+    color: rgb(0, 61, 72);
+    padding-top: 91px;
+} 
+.Lorem_ipsum_dolor_sit_amet_Donec_nec_justo_eget p {
+    font-size: 16px;
+    color: #8b8b8b;
+    padding-top: 36px;
+    padding-bottom: 36px;
+} 
+.more_info a{
+    background-color: rgb(247, 116, 98);
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 5px;
+    padding-top: 16px;
+    padding-right: 22px;
+    padding-bottom: 16px;
+    padding-left: 22px;
+]

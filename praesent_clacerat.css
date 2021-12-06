@@ -1,0 +1,19 @@
+.praesent_clacerat {
+    background-color: #f77462;
+    text-align: center;
+}
+.praesent_clacerat h2 {
+    color:white;
+    padding-top: 59px;
+    padding-bottom: 22px;
+    line-height: 0em;
+    font-weight: 700;
+    font-size: 32px;
+}
+.praesent_clacerat p {
+    color: white;
+    padding-bottom: 56px;
+    line-height: 120%;
+    font-size: 18px;
+}
+
