@@ -1,0 +1,41 @@
+.tri_v_odnom {
+    background-color: #6dc5dd;
+    display:flex;
+    margin-top: -3px;
+    padding-top: 63px;
+    padding-bottom: 63px;
+    padding-left: 30px;
+}
+.flag {
+    background-color: white;
+    padding: 15px 25px 15px 20px;
+    margin-left: 31px;
+    margin-bottom: 70px;
+    margin-right: 25px;
+    border-radius: 50px;
+}
+.tri_v_odnom p, .tri_v_odnom h3 {
+    color: white;
+}
+.tri_v_odnom h3 {
+    font-weight: 700;
+    font-size: 20px;
+}
+.tri_v_odnom a {
+    text-decoration: none;
+}
+.ausce_cellentes h3 {
+    padding-bottom: 30px;
+}
+.read_more {
+    padding-top: 26px;
+    font-weight: 700;
+}
+.icon-arrow-right2 {
+    background-color: white;
+    color: #6dc5dd;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 5px;
+    padding: 3px;
+}
